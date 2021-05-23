@@ -1,1 +1,0 @@
-# Contact-adjusted-immunity-levels-against-COVID-19-in-South-Korea
