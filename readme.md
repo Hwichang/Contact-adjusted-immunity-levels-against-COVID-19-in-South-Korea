@@ -25,7 +25,7 @@ In an age-structured population, the basic reproduction number is related to the
 *R<sub>0</sub>=&rho;(K)*
 
 
-where *&rho*; denotes the spectral radius and *K* is a matrix with elements
+where *&rho;* denotes the spectral radius and *K* is a matrix with elements
 
 
 *k<sub>ij</sub>=ϕ<sub>ij</sub>N<sub>i</sub>/N<sub>j</sub>*
@@ -39,7 +39,7 @@ where *ϕ<sub>ij</sub>* is the number of contacts that an individual in age grou
 
 where *r<sub>i</sub>* is the proportion immune in age group *i*.
 
-Here, we included both vaccinated and infected individuals in age group  as immune (*r<sub>i</sub>* ). We could only include population who received one dose of COVID-19 vaccine, and assume 86% of vaccine efficacy for Astrazeneca vaccine and 89.7% efficacy for Pfizer vaccine according to the KDCA report. For those who have been infected by COVID-19, we regard they acquired 100% of immunity. 
+Here, we included both vaccinated and infected individuals in age group *i* as immune (*r<sub>i</sub>* ). We could only include population who received one dose of COVID-19 vaccine, and assume 86% of vaccine efficacy for Astrazeneca vaccine and 89.7% efficacy for Pfizer vaccine according to the KDCA report. For those who have been infected by COVID-19, we regard they acquired 100% of immunity. 
 
 We tried to capture the changes of contact patterns as a result of social distancing measures, and much detailed method could be found in the manuscript “COVID-19 Vaccine Prioritisation in Japan and South Korea” (doi: https://doi.org/10.1101/2021.04.16.21255649). 
 
