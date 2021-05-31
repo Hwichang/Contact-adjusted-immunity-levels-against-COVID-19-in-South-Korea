@@ -51,4 +51,4 @@ COVID-19 Vaccine Prioritisation in Japan and South Korea
 doi: https://doi.org/10.1101/2021.04.16.21255649
 
 ![image](./img/img.png){: width="10%" height="10%"}
-<img src="./img/img.png" height="100px" width="300px">
+<img src="./img/img.png" height="1000px" width="1000px">
