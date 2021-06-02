@@ -5,7 +5,7 @@
 June Young Chun<sup>1</sup>, Hwichang Jeong<sup>2</sup> Yongdai Kim<sup>2</sup>
 
 
-1 Department of Internal Medicine, National Cancer Center, Goyang, South Korea
+1 Department of Internal Medicine, National Cancer Center, Goyang, South Korea / june.y.chun@gmail.com
 
 2 Department of Statistics, Seoul National University, Seoul, South Korea
 
@@ -44,7 +44,7 @@ Here, we included both vaccinated and infected individuals in age group *i* as i
 We tried to capture the changes of contact patterns as a result of social distancing measures, and much detailed method could be found in the manuscript “COVID-19 Vaccine Prioritisation in Japan and South Korea” (doi: https://doi.org/10.1101/2021.04.16.21255649). 
 
 ## Conclusion:
-The contact adjusted immunity against COVID-19 by May 24th, 2021 under the social distancing level 2 is __**4.36%**__ (3.91% under the social distancing level 1). 
+The contact adjusted immunity against COVID-19 by May 31th, 2021 under the social distancing level 2 is __**5.3%**__ (4.75% under the social distancing level 1). 
 
 ※ The optimal distribution of COVID-19 vaccines under the limited resources could be found in the study below. 
 COVID-19 Vaccine Prioritisation in Japan and South Korea
