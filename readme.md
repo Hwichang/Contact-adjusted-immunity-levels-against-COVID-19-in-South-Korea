@@ -50,4 +50,4 @@ The contact adjusted immunity against COVID-19 by May 31th, 2021 under the socia
 COVID-19 Vaccine Prioritisation in Japan and South Korea
 doi: https://doi.org/10.1101/2021.04.16.21255649
 
-<p align="center"><img src="./img/img.png" height="350px" width="600px"></p>
+<p align="center"><img src="./img/img_1.png" height="350px" width="600px"></p>
