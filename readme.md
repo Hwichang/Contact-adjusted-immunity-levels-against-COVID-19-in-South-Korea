@@ -25,7 +25,7 @@ In an age-structured population, the basic reproduction number is related to the
 *R<sub>0</sub>=&rho;(K)*
 
 
-where *&rho;* denotes the spectral radius and *K* is a matrix with elements
+where *&rho;* denotes the spectral radius and *K* is a next generation matrix(NGM) with elements
 
 
 *k<sub>ij</sub>=q<sub>i</sub>ϕ<sub>ij</sub>N<sub>i</sub>/N<sub>j</sub>*
