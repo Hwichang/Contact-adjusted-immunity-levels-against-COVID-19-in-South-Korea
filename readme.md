@@ -28,10 +28,10 @@ In an age-structured population, the basic reproduction number is related to the
 where *&rho;* denotes the spectral radius and *K* is a matrix with elements
 
 
-*k<sub>ij</sub>=ϕ<sub>ij</sub>N<sub>i</sub>/N<sub>j</sub>*
+*k<sub>ij</sub>=q<sub>i</sub>ϕ<sub>ij</sub>N<sub>i</sub>/N<sub>j</sub>*
 
 
-where *ϕ<sub>ij</sub>* is the number of contacts that an individual in age group *i* makes with that in age group *j*, and *N<sub>i</sub>* is the size of age group *i*. The effective reproduction number *R* is obtained in the same way, except that the matrix *K* is multiplied with a vector of susceptibility to yield an effective matrix *K'*
+where q<sub>i</sub> is the probability that a contact between a susceptible in age group i and an infectious person leads to infection,*ϕ<sub>ij</sub>* is the number of contacts that an individual in age group *i* makes with that in age group *j*, and *N<sub>i</sub>* is the size of age group *i*. The effective reproduction number *R* is obtained in the same way, except that the matrix *K* is multiplied with a vector of susceptibility to yield an effective matrix *K'*
 
 
 *k'<sub>ij</sub>=k<sub>ij</sub>(1−r<sub>i</sub>)*
