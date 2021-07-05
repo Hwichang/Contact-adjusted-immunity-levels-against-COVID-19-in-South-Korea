@@ -39,7 +39,7 @@ where *q<sub>i</sub>* is the probability that a contact between a susceptible in
 
 where *r<sub>i</sub>* is the proportion immune in age group *i*.
 
-Here, we included both vaccinated and infected individuals in age group *i* as immune (*r<sub>i</sub>* ). We could only include population who received one dose of COVID-19 vaccine, and assume 86% of vaccine efficacy for Astrazeneca vaccine and 89.7% efficacy for Pfizer vaccine according to the KDCA report. For those who have been infected by COVID-19, we regard they acquired 100% of immunity. 
+Here, we included both vaccinated and infected individuals in age group *i* as immune (*r<sub>i</sub>* ). We could only include population who received one dose of COVID-19 vaccine, and assume 86% of vaccine efficacy for Astrazeneca vaccine, 89.7% efficacy for Pfizer vaccine, and 66.9% efficacy for Janssen vaccine according to the KDCA report. For those who have been infected by COVID-19, we regard they acquired 100% of immunity. 
 
 We tried to capture the changes of contact patterns as a result of social distancing measures, and much detailed method could be found in the manuscript “COVID-19 Vaccine Prioritisation in Japan and South Korea” (doi: https://doi.org/10.1101/2021.04.16.21255649). 
 
